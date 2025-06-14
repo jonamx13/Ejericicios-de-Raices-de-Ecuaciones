@@ -2,11 +2,6 @@
 
 Implementación en GNU Octave de los métodos de Punto Fijo, Newton-Raphson y Secante para resolver problemas de raíces de ecuaciones.
 
-## 📌 Autor
-- **Nombre:** Jonathan Meixueiro  
-- **Matrícula:** 240694  
-- **Asesor:** Claudio Hiram Carmona Jurado
-
 ## 📂 Archivos
 
 | Problema | Descripción |
@@ -58,6 +53,6 @@ Implementación en GNU Octave de los métodos de Punto Fijo, Newton-Raphson y Se
 - **Asesor:** Claudio Hiram Carmona Jurado
 - **Alumno:** Jonathan Eduardo Olivas Meixueiro
 - **Matricula:** 240694
-- **Fecha de entrega:** 08/Junio/2025
+- **Fecha de entrega:** 13/Junio/2025
 
 ---
