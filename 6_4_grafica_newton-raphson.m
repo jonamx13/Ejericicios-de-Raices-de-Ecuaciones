@@ -1,3 +1,7 @@
+% Asesor: Claudio Hiram Carmona Jurado
+% Alumno: Jonathan Meixueiro
+% Matrícula: 240694
+
 % Ejercicio 6.4 - Raíces de f(x) = -1 + 5.5x - 4x^2 + 0.5x^3
 f = @(x) -1 + 5.5*x - 4*x.^2 + 0.5*x.^3;
 

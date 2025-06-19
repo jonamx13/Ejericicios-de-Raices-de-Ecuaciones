@@ -1,3 +1,7 @@
+% Asesor: Claudio Hiram Carmona Jurado
+% Alumno: Jonathan Meixueiro
+% Matrícula: 240694
+
 % Ejercicio 6.7 - Primera raíz positiva de f(x) = sin(x) + cos(1 + x^2) - 1
 f = @(x) sin(x) + cos(1 + x.^2) - 1;
 

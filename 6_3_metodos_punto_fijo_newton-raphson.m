@@ -1,3 +1,7 @@
+% Asesor: Claudio Hiram Carmona Jurado
+% Alumno: Jonathan Meixueiro
+% Matrícula: 240694
+
 % Ejercicio 6.3 - Métodos para f(x) = -x^2 + 1.8x + 2.5
 f = @(x) -x^2 + 1.8*x + 2.5;
 x0 = 5;
